@@ -1,9 +1,12 @@
+html, body {
+  height: 100%;
+}
 .header {
-  background-color: #aaf;
+  background-color: #aaa;
 }
 .body {
   height: 100%;
 }
 .footer {
-  background-color: #aaf;
+  background-color: #aaa;
 }
