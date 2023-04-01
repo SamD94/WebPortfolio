@@ -4,9 +4,17 @@ html, body {
 .header {
   background-color: #aaa;
 }
-.body {
-  height: 100%;
-}
 .footer {
   background-color: #aaa;
+}
+.navbar-brand {
+  margin: 10px;
+}
+.navbar-toggler {
+  margin: 10px;
+}
+.col {
+  margin: 5px;
+  background-color: #aaa;
+  border-radius: 1em;
 }
